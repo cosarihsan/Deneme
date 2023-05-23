@@ -73,7 +73,7 @@ export default function Home() {
               <span className="text-xl font-normal">Hello,</span> I'm
             </h4>
             <h2 className="mt-5 text-xl font-extrabold tracking-normal text-gray-800 uppercase md:text-4xl md:mt-3 dark:text-white">
-              Fadime Cosar
+             Ali İhsan Coşar
             </h2>
             <div className="mt-5 text-2xl font-normal text-transparent bg-gradient-to-r from-pink-500 via-indigo-400 to-purple-700 bg-clip-text md:mt-3">
               <TypingAnimation />
@@ -83,7 +83,7 @@ export default function Home() {
             <div className="flex items-center mt-8 space-x-6 md:mt-4">
               <div></div>
               <motion.a
-                href="https://github.com/fcosar"
+                href=""
                 target={"_blank"}
                 rel="noopener noreferrer"
                 className="flex items-center justify-center text-gray-800 transition-colors duration-300 dark:text-gray-100 dark:hover:text-pinkish-200 hover:text-pinkish-200"
@@ -92,7 +92,7 @@ export default function Home() {
                 <GithubIcon className={"w-8 h-8 fill-current"} />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/fadime-cosar/"
+                href=""
                 target={"_blank"}
                 rel="noopener noreferrer"
                 className="flex items-center justify-center text-gray-800 transition-colors duration-300 dark:text-gray-100 dark:hover:text-pinkish-200 hover:text-pinkish-200"
